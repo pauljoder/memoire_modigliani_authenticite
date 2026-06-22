@@ -3,6 +3,7 @@
 Mémoire de Master 1 SDHC - Paris 1 Panthéon-Sorbonne (2025-2026)
 
 Auteur : Paul Joder
+
 Directeurs : Sophie Cras et Vincenzo Capozzoli
 
 ## Description
