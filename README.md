@@ -1,6 +1,6 @@
 # L'authenticité à l'épreuve de l'algorithme
 
-Mémoire de Master 1 SDHC — Paris 1 Panthéon-Sorbonne (2025-2026)
+Mémoire de Master 1 SDHC - Paris 1 Panthéon-Sorbonne (2025-2026)
 
 Auteur : Paul Joder
 
