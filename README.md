@@ -1,6 +1,6 @@
 # L'authenticité à l'épreuve de l'algorithme
 
-Mémoire de Master 1 SDHC - Paris 1 Panthéon-Sorbonne (2025-2026)
+Mémoire de Master 1 SDHC — Paris 1 Panthéon-Sorbonne (2025-2026)
 
 Auteur : Paul Joder
 
@@ -12,14 +12,18 @@ Ce dépôt contient le code source du dispositif expérimental développé pour 
 
 Le dispositif repose sur un classifieur stylistique (ResNet18) entraîné à distinguer les œuvres d'Amedeo Modigliani de celles de ses contemporains (Picasso, Matisse, Chagall). Il est complété par une visualisation Grad-CAM des zones d'attention du modèle.
 
-## Contenu
+## Contenu du dépôt
 
-- `notebook_modigliani.ipynb` : notebook Jupyter principal (préparation du corpus, entraînement du modèle, évaluation, génération des cartes Grad-CAM)
-- `requirements.txt` : liste des bibliothèques utilisées
+- Le notebook Jupyter principal, qui couvre la préparation du corpus, l'entraînement du modèle ResNet18, l'évaluation sur le jeu de test et la génération des cartes Grad-CAM
+- Le dossier `Test pictures` contenant les images utilisées pour les tests critiques
+
+## Prérequis
+
+L'exécution du notebook nécessite un fichier d'authentification API Kaggle (`kaggle.json`) pour télécharger automatiquement le jeu de données. Ce fichier est obtenu depuis le compte personnel Kaggle de l'utilisateur (Settings → API → Create New Token).
 
 ## Corpus
 
-Le corpus est extrait du jeu de données *Best Artworks of All Time* (ikarus777, Kaggle) :
+Le corpus principal est extrait du jeu de données *Best Artworks of All Time* (ikarus777, Kaggle) :
 https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
 
 ## Résultats principaux
