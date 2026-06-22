@@ -1,6 +1,6 @@
 # L'authenticité à l'épreuve de l'algorithme
 
-Mémoire de Master 1 SDHC — Paris 1 Panthéon-Sorbonne (2025-2026)
+Mémoire de Master 1 SDHC - Paris 1 Panthéon-Sorbonne (2025-2026)
 
 Auteur : Paul Joder
 Directeurs : Sophie Cras et Vincenzo Capozzoli
@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
 
 ## Résultats principaux
 
-- Exactitude globale sur le jeu de test : 91,5 %
+- Exactitude globale sur le jeu de test : environ 90 %
 - Démonstration de l'écart entre reconnaissance stylistique et authentification
 
 ## Licence
